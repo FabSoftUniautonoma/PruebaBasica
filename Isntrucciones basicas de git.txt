@@ -21,6 +21,15 @@ git push -u origin main   -> subir cambios por primera vez al repositorio
 
 Cuando el repo ya existe:
 
+git pull origin main   -> Actualiza su repo local con el remoto
+
+git add . -> Agregamos todos los cambios
+
+git commit -m "Nuevo archivo con instrucciones"
+
+git pull origin main    -> Actualiza su repo local con el remoto
+
+git push origin main    -> empujar los cambios a remoto 
 
 
 
