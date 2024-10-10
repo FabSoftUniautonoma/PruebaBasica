@@ -1,0 +1,26 @@
+Cuando el repo es nuevo 
+git init     -> Inicializar un repositorio local
+
+git add de dos formas:
+	git add nombre_archivo.txt
+	git add .     -> El . = todo, es agregar todo 
+
+Comando de cualquier momento: 
+	git status    -> Validar el estado de sus recursos
+
+git commit -m "Primer commit"  -> Enlaza sus cambios con un comentario
+
+git branch -M main    -> Cambia el nombre de la rama master a main
+
+git remote add origin https://github.com/FabSoftUniautonoma/PruebaBasica.git
+  -> Agrega el destino remoto. Respaldo en la nube
+
+git push -u origin main   -> subir cambios por primera vez al repositorio
+
+
+
+Cuando el repo ya existe:
+
+
+
+
